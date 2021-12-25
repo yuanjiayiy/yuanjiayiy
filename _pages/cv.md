@@ -23,7 +23,7 @@ Work experience
   * Worked as a part of the on-call rotation, responded to customer-impacting issues 24/7 after investigating the root cause and diving deep into the code source, pushed the corresponding fix and reported to the Alexa team
 
 * Decemeber 2020 - June 2021: Research Assistant
-  * Carnegie Mellon University
+  * [The Technology for Effective and Efficient Learning (TEEL) Lab](http://teel.cs.cmu.edu/), Carnegie Mellon University
   * Developed the in-progress AI practitioner online course infrastructure that enables project-based learning through auto-graded projects that provide contextualized feedback.
   * Incorporated social learning reflection and feedback cycles for each project, timed and role-based online group learning exercises, and rubric-driven peer code-review activities.
   

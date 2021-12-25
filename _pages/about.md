@@ -14,6 +14,9 @@ Jiayi Yuan, or, as people calls her, Carrie, is a software development engineer 
 FAQ
 =======
 Life motto: Be curious. Be Brave.
+
 Last book I read: Religious Writings On the Other Worlds: China and Beyond
+
 One word to sum up the year of 2021: Adulting
+
 Name of my cat: Chunky

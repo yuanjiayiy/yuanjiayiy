@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Resume Download Link](JiayiYuanResume2021-11-v2.0.pdf)
+[Resume Download Link](https://drive.google.com/file/d/1dk4VhFoChNc_eAQGGjoB9ZoNJsqKsHnz/view?usp=sharing)
 
 Education
 ======

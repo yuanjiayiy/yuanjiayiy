@@ -9,51 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
+[Resume Download Link](JiayiYuanResume2021-11-v2.0.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Neuroscience, additional major in Computer Science, Carnegie Mellon University, August 2017 - May 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2021 - Present: Software Engineer
+  * Amazon Alexa
+  * Designed and implemented the metrics monitoring and privacy compliance system for [Alexa Together](https://www.amazon.com/Alexa-Together/b?ie=UTF8&node=21390531011&tag=googhydr-20&hvadid=512293179963&hvpos=&hvexid=&hvnetw=g&hvrand=10762307714598618515&hvpone=&hvptwo=&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9033306&hvtargid=kwd-1432099856796&ref=pd_sl_4wd9kixsf8_e), a subscription service that offers elder care and urgent response using Alexa devices.
+  * Worked as a part of the on-call rotation, responded to customer-impacting issues 24/7 after investigating the root cause and diving deep into the code source, pushed the corresponding fix and reported to the Alexa team
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Decemeber 2020 - June 2021: Research Assistant
+  * Carnegie Mellon University
+  * Developed the in-progress AI practitioner online course infrastructure that enables project-based learning through auto-graded projects that provide contextualized feedback.
+  * Incorporated social learning reflection and feedback cycles for each project, timed and role-based online group learning exercises, and rubric-driven peer code-review activities.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Programming languages: Python, Java, Javascript, C/C++, MATLAB, Unix, HTML/CSS, SQL/NoSQL, R
+* Data Analytics and Machine Learning: PyTorch, OpenCV, TensorFlow, Scikit-learn, NumPy, Pandas
+* Tools: AWS, Microsoft Azure, Docker, Git, Django
+* Languages: Mandarin, English, Spanish

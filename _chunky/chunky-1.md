@@ -1,10 +1,9 @@
 ---
-title: "Chunky"
 collection: chunky
 ---
 
 Chunky is a peculiar cat
-=======
+====
 
 Chunky was born on August 6th, 2020.
 ![](/images/chunky_jiong.jpeg)

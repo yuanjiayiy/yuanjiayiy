@@ -1,14 +1,11 @@
 ---
 layout: archive
-title: "Chunky"
+title: "Chunky is a peculiar cat"
 permalink: /chunky/
 author_profile: true
 redirect_from:
   - /chunky
 ---
-
-Chunky is a peculiar cat
-====
 
 Chunky was born on August 6th, 2020.
 ![](/images/chunky_jiong.jpeg)

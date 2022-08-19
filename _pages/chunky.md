@@ -1,5 +1,10 @@
 ---
-collection: chunky
+layout: archive
+title: "Chunky"
+permalink: /chunky/
+author_profile: true
+redirect_from:
+  - /chunky
 ---
 
 Chunky is a peculiar cat

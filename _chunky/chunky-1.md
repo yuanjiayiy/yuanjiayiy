@@ -1,7 +1,17 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
----
+title: "Chunky is a peculiar cat"
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+excerpt: "Chunky was born on August 6th, 2020<br/><img src='/images/chunky_jiong.png'>"
+collection: chunky
+
+excerpt: "Chunky was adopted from Humane Animal Rescue Pittsburgh in Decemeber, 2020<br/><img src='/images/chunky_day0.png'>"
+collection: chunky
+
+
+excerpt: "Shelter worker named her Chunky because she always finished her food<br/><img src='/images/chunky_couch.png'>"
+collection: chunky
+
+excerpt: "She is a shy girl. An introvert like her human.<br/><img src='/images/chunky_shy.png'>"
+collection: chunky
+
+---

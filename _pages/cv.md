@@ -15,7 +15,7 @@ Education
 ======
 * B.S. in Neuroscience, additional major in Computer Science, Carnegie Mellon University, August 2018 - May 2021
 
-* M.S. in Computational Linguistics, 
+* M.S. in Computational Linguistics, University of Washington, September 2022 - August 2024
 
 Work experience
 ======

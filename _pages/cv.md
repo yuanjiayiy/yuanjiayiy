@@ -19,11 +19,11 @@ Education
 
 Work experience
 ======
-* July 2021 - Present: Software Engineer
-  * Amazon Alexa AGI
+* July 2021 - July 2023: Software Development Engineer
+  * Amazon AGI
 
-* December 2020 - June 2021: Research Assistant
-  * [The Technology for Effective and Efficient Learning (TEEL) Lab](http://teel.cs.cmu.edu/), Carnegie Mellon University
+* July 2023 - Present: Research Assistant
+  * WEIRDLab (Washington Embodied Intelligence and Robotics Development Lab), University of Washington
   
 Skills
 ======

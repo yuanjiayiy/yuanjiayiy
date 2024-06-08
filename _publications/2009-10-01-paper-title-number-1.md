@@ -1,9 +1,0 @@
----
-title: "Scaling Robot-Learning by Crowdsourcing Simulation Environments"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Scaling robot learning requires data collection pipelines that scale favorably with human effort to ensure a sufficient diversity and quality of expert data. In this work, we propose Scaling, Crowdsourcing and Amortizing Real-to-sim-to-real - SCAR, a pipeline for scaling up data collection and learning generalist policies where human effort scales sublinearly with the number of environments where data is collected. The key idea is to crowdsource digital twins of real-world scenes using 3D reconstruction techniques and collect large-scale data in these simulation scenes, rather than in the real-world. Data collection in simulation is initially driven by reinforcement learning bootstrapped with human demonstrations. However, as the training of a generalist policy progresses across environments, the generalization capabilities of the learned generalist policy can be used to replace human effort with model generated demonstrations. This results in a pipeline where environments are easily sourced from non-experts through 3D capture, while behavioral data is collected with continually reducing amounts of human effort. We analyze the zero-shot and few-shot scaling laws of SCAR on two real-world tasks: placing mugs/bowls/cups into a sink and placing boxes on a shelf across a diverse range of environments. We also demonstrate the capabilities of the \MethodName pipeline to finetune trained policies in a target scenario using a novel unsupervised fine-tuning technique that can improve behavior simply using 3D environments scans at test time, without requiring additional human demonstrations.'
-date: 2024-06-07
-venue: 'CoRL'
-paperurl: 'https://openreview.net/forum?id=jPeIE8fR32'
----

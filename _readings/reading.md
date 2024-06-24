@@ -9,5 +9,5 @@ redirect_from:
 
 I update my recent readings here.
 
-
+https://proceedings.mlr.press/v97/jaques19a/jaques19a.pdf
 

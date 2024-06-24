@@ -27,6 +27,11 @@ Research experience
 
 * July 2023 - Present: Student Researcher
   * WEIRDLab (Washington Embodied Intelligence and Robotics Development Lab), University of Washington
+
+Service
+======
+
+* Reviewer: AMLC 2024
   
 Skills
 ======

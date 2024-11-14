@@ -2,7 +2,7 @@ I am a graduate student researcher at [University of Washington](https://www.was
 
 ---
 
-[Email](mailto:yuancarrieyjy@gmail.com) | [CV](data/JiayiYuanCV_20240629.pdf) | [LinkedIn](https://www.linkedin.com/in/carrie-yuan-466243121/) | [Twitter](https://twitter.com/carrieyuanjiayi) | [Github](https://github.com/yuanjiayiy/)
+[Homepage](https://yuanjiayiy.github.io) | [Email](mailto:yuancarrieyjy@gmail.com) | [CV](data/JiayiYuanCV_20240629.pdf) | [LinkedIn](https://www.linkedin.com/in/carrie-yuan-466243121/) | [Twitter](https://twitter.com/carrieyuanjiayi) | [Github](https://github.com/yuanjiayiy/)
 
 
 I like to model everything. Some might call a reductionist. But I cannot resist the appeal of describing the mundane everyday complex phenomenons, such as weather, grocery price, or interpersonal relations, in terms of elegant mathematical symbols and functions with certain input space and output space. Studying computer science and mathematics allows me to do that in a more rigorous fashion. It teaches me a language to describe a problem space so that my ideas can be communicated universally. Studying neuroscience allows me to see both the complexiticity and simplicity of the world I live in. We can describe our minds as simple as an ensemble of electrical pulses, but the complexity lies in that our coordination, our neuroplasticity and biological efficiency (compared to its power-hungry machine counterpart).
